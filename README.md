@@ -1,29 +1,15 @@
 # 💫 About Me:
-Hey there, fellow developers! Welcome to my GitHub profile. Let me take a moment to introduce myself and give you a glimpse into my unique journey.<br>
+<br>I'm Julio, a tech enthusiast, and my background lies in Biomedical Analyses. My specialization includes Quality Assurance and Biological Material Transportation. I've gained valuable leadership experience during my tenure as a Principal Manager in the mining industry, where I've emphasized sustainable practices.<br>
 
-About Me:
-I'm Julio, a nature lover with an unwavering passion for technology. I believe that the combination of the two can create powerful solutions to address environmental challenges and shape a sustainable future.<br>
+<br>The COVID-19 pandemic served as a catalyst for my transition into the tech world. I took the initiative to complete Harvard's CS50 course, which allowed me to develop proficiency in programming languages like C, CSS, HTML, Python, and gain hands-on experience with Flask and MySQL. I'm deeply passionate about leveraging technology to tackle environmental challenges and contribute to a more sustainable future.<br>
 
-Education and Experience:
-I hold a Bachelor's degree in Biomedical Analyses, which has equipped me with a strong scientific foundation and attention to detail. For over two years, I have worked in Quality Assurance, specifically in the field of Biological Material Transportation. This experience has honed my skills in ensuring compliance, meticulous documentation, and maintaining high standards in a critical industry.<br>
+<br>I invite you to join me on this exciting journey, where the realms of nature and innovation converge, enabling us to drive positive change.<br>
 
-In addition to my QA expertise, I also have one year of hands-on experience in Biological Analyses, further enhancing my knowledge of laboratory procedures and data analysis techniques.<br>
 
-Leadership Experience:
-I am proud to have served as the Principal Manager at a mining factory for over three years. This role has allowed me to cultivate my leadership skills, oversee operations, and ensure efficient and sustainable practices in the mining industry.<br>
 
-Transitioning to Tech:
-Driven by my love for technology and inspired by the challenges posed by the COVID-19 pandemic, I made a bold decision to pivot my career towards the tech industry. Since then, I have been immersed in the world of programming, dedicating myself to learning new skills and expanding my horizons.<br>
 
-Technical Skills:
-My programming journey began with the CS50 course from Harvard, which I successfully completed in December 2022. Through this experience, I gained a solid foundation in computer science and problem-solving. I have practical experience with languages such as C, CSS, HTML, and Python. Additionally, I have developed full-stack web applications utilizing Flask and MySQL, showcasing my ability to create functional and user-friendly solutions.<br>
 
-Join me on this exciting tech exploration, where nature meets innovation. Together, we can harness the power of technology to create a more sustainable world.<br>
 
-Thank you for visiting my GitHub profile, and I look forward to collaborating with like-minded individuals who share a passion for both technology and the environment.<br>
-
-Best regards,<br>
-Julio<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/juliocezar_0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-l-m-uch%C3%B4a-75ba5023b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/uchoa_cezar) 
