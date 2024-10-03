@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>I'm Julio, a tech enthusiast, and my background lies in Biomedical Analyses. My specialization includes Quality Assurance and Biological Material Transportation. I've gained valuable leadership experience during my tenure as a Principal Manager in the mining industry, where I've emphasized sustainable practices.<br>
 
-<br>The COVID-19 pandemic served as a catalyst for my transition into the tech world. I took the initiative to complete Harvard's CS50 course, which allowed me to develop proficiency in programming languages like C, CSS, HTML, Python, and gain hands-on experience with Flask and MySQL. I'm deeply passionate about leveraging technology to tackle environmental challenges and contribute to a more sustainable future.<br>
+<br>The COVID-19 pandemic served as a catalyst for my transition into the tech world. I took the initiative to complete Harvard's CS50 course, which allowed me to develop proficiency in programming tools and languages like C, CSS, HTML, Python, C and C++ and gain hands-on experience with Flask and MySQL. I'm deeply passionate about leveraging technology to tackle environmental challenges and contribute to a more sustainable future.<br>
 
 <br>I invite you to join me on this exciting journey, where the realms of nature and innovation converge, enabling us to drive positive change.<br>
 
